@@ -1,4 +1,4 @@
-service: nodejsbackendAPi
+service: docspeAdminTestApiNodejs
 app: server-app
 
 provider:
